@@ -50,7 +50,7 @@ open up you local host and port
 ```
 
 
-### DVC cmd
+<!-- ### DVC cmd
 
 1. dvc init
 2. dvc repro
@@ -156,6 +156,4 @@ docker push chickenapp.azurecr.io/chicken:latest
 3. Launch the Web App Server in Azure 
 4. Pull the Docker image from the container registry to Web App server and run 
 # chicken-disease-classification-using-fecal
-# chicken-disease-classification-using-fecal
-# chicken-disease-classification-using-fecal
-# chicken-disease-classification-using-fecal
+ -->
