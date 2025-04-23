@@ -138,8 +138,7 @@ open up you local host and port
 
 ## Save pass:
 
-s3cEZKH5yytiVnJ3h+eI3qhhzf9q1vNwEi6+q+WGdd+ACRCZ7JD6
-
+***REDACTED***
 
 ## Run from terminal:
 
@@ -156,5 +155,6 @@ docker push chickenapp.azurecr.io/chicken:latest
 2. Push the Docker image to Container Registry
 3. Launch the Web App Server in Azure 
 4. Pull the Docker image from the container registry to Web App server and run 
+# chicken-disease-classification-using-fecal
 # chicken-disease-classification-using-fecal
 # chicken-disease-classification-using-fecal
